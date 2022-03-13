@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    color: rgb(95, 2, 80);
+    background-color: rgb(245, 166, 245);
+    display: grid;
+    place-items: center;
+}
+
+h1{
+    font-size: 60px;
+    font-family: fantasy;
+}
+
+section{
+    background-color: rgba(252, 0, 0, 0.3);
+    padding: 45px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+p{
+    font-size: 80px;
+}
+
+button{
+    background-color:rgb(247, 179, 247);
+    color: rgb(95, 2, 80);
+    font-size: 18px;
+    width:80px;
+    border-radius: 10px;
+    border: none;
+}
