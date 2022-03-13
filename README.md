@@ -1,1 +1,1 @@
-# Contadores
+Contador desenvolvido para estudar e praticar o uso de variaveis e variavel global.
